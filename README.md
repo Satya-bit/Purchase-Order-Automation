@@ -2,6 +2,7 @@
 This automation is for extracting specific fields from Purchase Order. Now, whenever a new Purchase Order arrives in my client's Outlook, the workflow extracts key details from the PO, adds them to Excel, and transfers the data into their internal web form for order summary creation.
 
 This works for all the types of pdfs(normal and scanned). If the PO is handwrittern or if it is in excel file, it works.
+
 =>Full workflow
 <img width="1701" height="692" alt="image" src="https://github.com/user-attachments/assets/3644a590-ede3-4893-a9a6-0ff6ac65fd6f" />
 
